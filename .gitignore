@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+*.log
+*.tar.gz
+*.tgz
+app-preview.jpg
+app-preview.png
